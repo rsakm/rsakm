@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajshree</h1>
-<h3 align="center">A passionate MERN Stack Developer. 
-  📍 4th Year CSE Student | Open to SDE & Frontend Internships  
-🌱 Always learning: DevOps, DSA Visualizers, Real-time Appsfrom India</h3>
+<h3 align="center">A passionate MERN Stack Developer. <br>
+  📍 4th Year CSE Student <br> 
+📚 Always learning, always growing | Writing tech + poetry  
 
 - 📫 How to reach me **rajshreeakm@gmail.com**
 
