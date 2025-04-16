@@ -1,6 +1,6 @@
 ![logo](https://github.com/rsakm/rsakm/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Rajshree</h1>
-<h3 align="center">💻 A passionate MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">💻 A passionate MERN Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&width=435&lines=4th+Year+CSE+Student;Tech+Enthusiast+%26+Poet;Web3+%7C+DevOps+%7C+AI+%7C+Cloud+Lover;Learning+never+stops!+%F0%9F%93%96" alt="Typing SVG" />
