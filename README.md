@@ -25,7 +25,7 @@
   <a href="https://twitter.com/rajshre58266522"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://linkedin.com/in/rajshree468"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://fb.com/shree.akm"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="https://instagram.com/rsakm"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://instagram.com/rs.akm"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </p>
 
 ---
