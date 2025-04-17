@@ -43,13 +43,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsakm&show_icons=true&theme=algolia" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsakm&theme=green-fire" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsakm&show_icons=true&theme=algolia&count_private=true" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsakm&theme=green-fire&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsakm&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsakm&layout=compact&theme=radical&count_private=true" />
 </p>
+
 
 ---
 <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
