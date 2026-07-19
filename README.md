@@ -1,56 +1,142 @@
-![logo](https://github.com/rsakm/rsakm/blob/main/logo.png)
-<h1 align="center">Hi 👋, I'm Rajshree</h1>
-<h3 align="center">💻 A passionate MERN Stack Developer from India</h3>
+<div align="center">
+
+# Hi 👋, I'm Rajshree
+
+### Software Engineer • MERN Stack Developer • AI & ML Engineer
+
+Building scalable full-stack applications, interactive 3D experiences, and intelligent AI-powered solutions.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&width=435&lines=Software+Engineer;Tech+Enthusiast+%26+Poet;Web3+%7C+DevOps+%7C+AI+%7C+Cloud+Lover;Learning+never+stops!+%F0%9F%93%96" alt="Typing SVG" />
+  <a href="https://rjshree.com">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/rjshree">LinkedIn</a> •
+  <a href="https://github.com/itsrjshree">GitHub</a> •
+  <a href="https://medium.com/@itsrjshree">Medium</a>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;MERN+Stack+Developer;AI+%26+ML+Engineer;React+%7C+Node.js+%7C+Three.js;Always+Learning+Something+New+🚀" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Software Engineer passionate about scalable web applications
+- ⚛️ Specialized in **React, Node.js, Express.js & MongoDB**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Cloud & DevOps**
+- ✍️ Technical writer and poetry enthusiast
+- 📍 Noida, India
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 CodeReviewPro
+AI-powered real-time code review platform using Google Gemini.
+
+### ❤️ ExpressUrLove
+Interactive proposal website with beautiful animations.
+
+### 🩺 HealthSense AI
+Machine Learning application for multiple disease prediction using Python & Streamlit.
+
+🌐 Explore more projects:
+
+### https://rjshree.com
+
+---
+
+# 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding-gif"/>
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,mongodb,redux,tailwind,threejs,js,ts,python,java,cpp,mysql,git,github,docker,aws,figma,vscode" />
+
 </p>
 
 ---
 
-- 🌱 Currently diving into **Smart Contracts (Web3)** & **Modern DevOps** (Docker, CI/CD, Cloud)
-- 🌐 Portfolio: [rajshree.online](https://www.rajshree.online)
-- 📫 Reach me: **rajshreeakm@gmail.com**
-- ⚡ Fun fact: *Built a full-stack app and wrote a poem about it.*
-
----
-
-### 📲 Connect with Me
+# 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/rajshre58266522"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://linkedin.com/in/rajshree468"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://fb.com/shree.akm"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
-  <a href="https://instagram.com/rs.akm"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+
+<a href="https://rjshree.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/itsrjshree">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/rjshree">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/itsrjshree">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://instagram.com/itsrjshree">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/itsrjshree">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/rjshree/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://medium.com/@itsrjshree">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"/>
+</a>
+
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,java,cpp,html,css,js,ts,mysql,postgres,git,github,docker,aws,figma,electron" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsrjshree&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsrjshree&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrjshree&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-
-
-### 📈 GitHub Stats
+# 🐍 Contribution Snake
 
 <p align="center">
-<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rsakm&show_icons=true&theme=algolia&count_private=true" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rsakm&theme=green-fire&count_private=true" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsakm&layout=compact&theme=radical&count_private=true" />
-</p>
+<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="GitHub Contribution Snake"/>
 
+</p>
 
 ---
-<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
+# 📫 Contact
+
+📧 **rajshreeakm@gmail.com**
+
+🌐 **https://rjshree.com**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code with logic. Build with purpose. Keep learning."* 🚀
+
+</div>
